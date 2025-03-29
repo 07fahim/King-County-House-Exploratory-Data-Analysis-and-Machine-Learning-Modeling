@@ -35,17 +35,21 @@ Scikit-Learn, XGBoost for machine learning models
 📈 Machine Learning Models
 Linear Regression
 
-DecisionTreeRegressor
+Decision Tree
 
-RandomForestRegressor
+Random Forest 
 
-GradientBoostingRegressor 
+Gradient Boosting
 
-AdaBoostRegressor
+Ada Boost
 
-XGBoostRegressor
+XG Boost
 
-KNN Regressor
+KNN 
+
+Ridge Regression
+
+Lasso Regression
 
 
 
