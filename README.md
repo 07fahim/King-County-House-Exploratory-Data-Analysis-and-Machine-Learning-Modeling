@@ -39,10 +39,10 @@ Decision Trees
 
 RandomForestRegressor
 
-Gradient Boosting 
+GradientBoostingRegressor 
 
-AdaBoost
+AdaBoostRegressor
 
-XGBoost Regressor
+XGBoostRegressor
 
 
