@@ -37,6 +37,12 @@ Linear Regression
 
 Decision Trees
 
-Random Forest
+RandomForestRegressor
 
-Gradient Boosting & XGBoost
+Gradient Boosting 
+
+AdaBoost
+
+XGBoost Regressor
+
+
